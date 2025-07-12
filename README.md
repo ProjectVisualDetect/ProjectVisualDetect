@@ -17,5 +17,5 @@ Este repositório apresenta o desenvolvimento de uma ferramenta computacional ba
 
 **Serviço Nacional de Aprendizagem Industrial – SENAI/RS**  
 Unidade: Centro de Formação Profissional Plínio Gilberto Kröeff – São Leopoldo/RS  
-Curso: Técnico em Desenvolvimento de Sistemas – Módulo 4  
+Curso: Técnico em Desenvolvimento de Sistemas – Módulo 1 
 Ano: 2025
